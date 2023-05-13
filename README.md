@@ -1,2 +1,2 @@
 # learn-terraform-rgs
-for terraform practice thing with the live example
+The learning and understanding process of terraform.
